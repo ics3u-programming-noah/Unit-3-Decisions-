@@ -1,0 +1,9 @@
+C:\Users\noahc\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberNoah\GuessNumberNoah\bin\Debug\GuessNumberNoah.exe.config
+C:\Users\noahc\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberNoah\GuessNumberNoah\bin\Debug\GuessNumberNoah.exe
+C:\Users\noahc\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberNoah\GuessNumberNoah\bin\Debug\GuessNumberNoah.pdb
+C:\Users\noahc\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberNoah\GuessNumberNoah\obj\Debug\GuessNumberNoah.csprojAssemblyReference.cache
+C:\Users\noahc\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberNoah\GuessNumberNoah\obj\Debug\GuessNumberNoah.frmGuessNumber.resources
+C:\Users\noahc\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberNoah\GuessNumberNoah\obj\Debug\GuessNumberNoah.Properties.Resources.resources
+C:\Users\noahc\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberNoah\GuessNumberNoah\obj\Debug\GuessNumberNoah.csproj.GenerateResource.cache
+C:\Users\noahc\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberNoah\GuessNumberNoah\obj\Debug\GuessNumberNoah.exe
+C:\Users\noahc\Documents\ICS3U Programming\Unit-3-Decisions-\GuessNumberNoah\GuessNumberNoah\obj\Debug\GuessNumberNoah.pdb
