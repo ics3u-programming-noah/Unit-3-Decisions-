@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 3 (Decisions)\FactorialwithForLoop\FactorialwithForLoop\bin\Debug\FactorialwithForLoop.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 3 (Decisions)\FactorialwithForLoop\FactorialwithForLoop\bin\Debug\FactorialwithForLoop.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 3 (Decisions)\FactorialwithForLoop\FactorialwithForLoop\bin\Debug\FactorialwithForLoop.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 3 (Decisions)\FactorialwithForLoop\FactorialwithForLoop\obj\Debug\FactorialwithForLoop.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 3 (Decisions)\FactorialwithForLoop\FactorialwithForLoop\obj\Debug\FactorialwithForLoop.frmForLoop.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 3 (Decisions)\FactorialwithForLoop\FactorialwithForLoop\obj\Debug\FactorialwithForLoop.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 3 (Decisions)\FactorialwithForLoop\FactorialwithForLoop\obj\Debug\FactorialwithForLoop.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 3 (Decisions)\FactorialwithForLoop\FactorialwithForLoop\obj\Debug\FactorialwithForLoop.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 3 (Decisions)\FactorialwithForLoop\FactorialwithForLoop\obj\Debug\FactorialwithForLoop.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Unit 3 (Decisions)\FactorialwithForLoop\FactorialwithForLoop\obj\Debug\FactorialwithForLoop.pdb
